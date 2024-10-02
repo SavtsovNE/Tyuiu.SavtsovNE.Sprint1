@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using tyuiu.SavtsovNE.Sprint1.Task4.V13.Lib;
+using Tyuiu.SavtsovNE.Sprint1.Task4.V13.Lib;
 
-namespace tyuiu.SavtsovNE.Sprint1.Task4.V13.Test
+namespace Tyuiu.SavtsovNE.Sprint1.Task4.V13.Test
 {
     [TestClass]
     public class DataServiceTest
