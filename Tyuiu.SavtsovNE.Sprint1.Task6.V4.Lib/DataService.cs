@@ -11,8 +11,13 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task6.V4.Lib
     {
         public string CheckDoubleN(string value)
         {
-            value = value.Replace("нн", "н");
-            return value;
+            string[] values = value.Split(' ');
+            string res = "";
+            foreach (string s in values)
+            {
+                if (s.Contains("нн")) res += s + " ";
+            }
+            return res;
         }
     }
 }
