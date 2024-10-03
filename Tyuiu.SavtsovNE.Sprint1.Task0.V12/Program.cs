@@ -10,7 +10,7 @@ Console.WriteLine("* Задание #0                                          
 Console.WriteLine("* Вариант #12                                                          *");
 Console.WriteLine("* Выполнил: Савцов Никита Евгеньевич | ИБКСб-24-1                      *");
 Console.WriteLine("************************************************************************");
-Console.WriteLine("* УСЛОВИЕ:                                                             *");
+Console.WriteLine("* УСЛОВИЕ:                                                             *"); 
 Console.WriteLine("* Написать программу, которая вычисляет выражение (5*2 - 2) / 4 * 3    *");
 Console.WriteLine("* и печатает результат на экране.                                      *");
 Console.WriteLine("*                                                                      *");
