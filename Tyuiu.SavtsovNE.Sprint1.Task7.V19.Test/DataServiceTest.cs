@@ -5,7 +5,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task7.V19.Test
     public class Tests
     {
         [TestMethod]
-        public void Test1() 
+        public void Test1()
         {
             double x = 2;
 
