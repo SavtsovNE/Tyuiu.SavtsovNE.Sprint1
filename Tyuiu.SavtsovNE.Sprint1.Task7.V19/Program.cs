@@ -6,7 +6,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task7.V19
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнила: Савцов.Н.Е | ИБКСб-24-1";
+            Console.Title = "Спринт #1 | Выполнил: Савцов.Н.Е | ИБКСб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");

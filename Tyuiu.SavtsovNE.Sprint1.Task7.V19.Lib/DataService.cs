@@ -5,7 +5,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task7.V19.Lib
     {
         public double Calculate(double x)
         {
-            var m2 = Math.Pow(x, 2);
+            var m2 = Math.Pow(x, 2); 
             var m3 = Math.Pow(x, 3);
             var m4 = Math.Pow(x, 4);
             var m5 = Math.Pow(x, 5);
