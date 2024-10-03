@@ -16,7 +16,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task5.V3
             Console.Title = "Спринт #1 | Выполнил: Савцов.Н.Е | ИБКСб-24.1";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #1                                                              *");
-            Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
+            Console.WriteLine("* Тема: Преобразование типов и класс Convert                             *");
             Console.WriteLine("* Задание #5                                                             *");
             Console.WriteLine("* Вариант #3                                                             *");
             Console.WriteLine("* Выполнил: Савцов Никита Евгеньевич | ИБКСб-24.1                        *");
