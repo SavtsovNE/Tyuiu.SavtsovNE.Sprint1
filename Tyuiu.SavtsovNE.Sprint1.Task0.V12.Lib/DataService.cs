@@ -19,4 +19,3 @@ namespace tyuiu.SavtsovNE.Sprint1.Task0.V12.Lib
     }
 
 }
-
