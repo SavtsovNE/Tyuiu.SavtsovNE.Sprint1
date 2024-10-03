@@ -5,7 +5,7 @@ namespace tyuiu.SavtsovNE.Sprint1.Task3.V5
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
 
