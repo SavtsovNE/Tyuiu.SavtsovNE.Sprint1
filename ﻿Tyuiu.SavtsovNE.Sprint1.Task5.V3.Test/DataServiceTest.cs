@@ -12,7 +12,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task5.V3.Test
         public void ValidExpression()
         {
 
-            DataService ds = new DataService();
+            DataService ds = new DataService( );
             int k = 15435;
             int wait = 4;
             var res = ds.Calculate(k);
