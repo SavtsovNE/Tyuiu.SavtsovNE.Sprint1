@@ -1,5 +1,9 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using tyuiu.cources.programming.interfaces.Sprint1;
 
 
 namespace Tyuiu.SavtsovNE.Sprint1.Task4.V13.Lib
@@ -8,11 +12,8 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task4.V13.Lib
     {
         public double Calculate(double x, double y)
         {
-            double result = Math.Cos(Math.PI / x) / (3 * Math.Exp(x) + y);
-
-            result = Math.Round(result, 3);
-
-            return result;
+            var res = Math.Round((Math.Cos(Math.PI / x) / (3 * Math.Pow(Math.E, x + y))), 3);
+            return res;
         }
     }
 }
