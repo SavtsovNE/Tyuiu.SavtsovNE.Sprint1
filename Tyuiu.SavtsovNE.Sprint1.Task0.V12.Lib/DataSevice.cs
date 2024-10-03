@@ -6,7 +6,7 @@ namespace tyuiu.SavtsovNE.Sprint1.Task0.V12.Lib
     {
         public double Calculate(double x, double y)
         {
-            return (5 + x) / (y * x);
+            return (5 + x) / (y * x); 
 
             //подсчитываем выражения 
 
