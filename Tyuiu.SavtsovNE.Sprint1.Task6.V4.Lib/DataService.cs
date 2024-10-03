@@ -17,7 +17,7 @@ namespace Tyuiu.SavtsovNE.Sprint1.Task6.V4.Lib
             {
                 if (s.Contains("нн")) res += s + " ";
             }
-            return res;
+            return res.Trim();
         }
     }
 }
